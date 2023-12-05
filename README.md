@@ -17,3 +17,6 @@ Codes and datasets for paper: Peer attention enhances student learning
 - Run s3_learn_outcome() in result_analysis.py to replicate results in the learning outcome subsection in Results section in the paper.
 - Run s4_decode_learn() in result_analysis.py to replicate results in the decoding learning process subsection in Results section in the paper.
 
+# Cite us
+
+Please cite our paper if you find our datasets/codes useful.
