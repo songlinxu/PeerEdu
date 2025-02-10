@@ -1,5 +1,5 @@
-# PeerEdu
-Codes and datasets for paper: Peer attention enhances student learning
+# [CHI 2025] PeerEdu: Bootstrapping Online Learning Behaviors via Asynchronous Area of Interest Sharing from Peer Gaze
+
 
 # To draw figures in the paper 
 
