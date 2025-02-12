@@ -1,5 +1,6 @@
 # [CHI 2025] PeerEdu: Bootstrapping Online Learning Behaviors via Asynchronous Area of Interest Sharing from Peer Gaze
 
+# The instructions below are old figures. For updated ones in our final manuscript, we will update soon.
 
 # To draw figures in the paper 
 
