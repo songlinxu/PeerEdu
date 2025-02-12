@@ -23,10 +23,4 @@
 Please cite our paper if you find our datasets/codes useful.
 
 ```bibtex
-@article{xu2023peer,
-  title={Peer attention enhances student learning},
-  author={Xu, Songlin and Hu, Dongyin and Wang, Ru and Zhang, Xinyu},
-  journal={arXiv preprint arXiv:2312.02358},
-  year={2023}
-}
 ```
